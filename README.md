@@ -18,8 +18,8 @@
 ### Install ⬇️
 
 ```bash
-> git clone https://github.com/KurrXd/kurrxd
-> cd kurrxd
+> git clone https://github.com/arulganz/coba
+> cd coba
 > npm i
 > npm start
 ```
@@ -46,8 +46,8 @@ after start it you need to scan the qr
 ### Contact me
 
 
-- [WHATSAPP](http://wa.me/6281220670449)
-- [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/EymjfVUattCJSGg58WPvrd)
+- [WHATSAPP](http://wa.me/6281229859085)
+
 
 
 ## 🙏 Special Thanks to
